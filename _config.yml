@@ -1,4 +1,6 @@
 title: Ethan Chiu
 #logo: img_path (where it's located in github repo)
 #description: text below image
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
